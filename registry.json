@@ -1,0 +1,11 @@
+{
+    "name": "ApiGear Template Registry",
+    "description": "Template registry for ApiGear",
+    "templates": [
+        {
+            "name": "Unreal Engine C++ Template",
+            "git": "https://github.com/apigear.io/unreal-template/",
+            "description": "A template"
+        }
+    ]
+}
