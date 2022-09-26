@@ -3,9 +3,14 @@
     "description": "Template registry for ApiGear",
     "templates": [
         {
-            "name": "Unreal Engine C++ Template",
-            "git": "https://github.com/apigear.io/unreal-template/",
-            "description": "A template"
+            "name": "Go Template Py",
+            "git": "https://github.com/apigear.io/go-template-py/",
+            "description": "A python based template"
+        },
+        {
+            "name": "Go Template",
+            "git": "https://github.com/apigear.io/go-template-go/",
+            "description": "A Go based template with ObjectLink support"
         }
     ]
 }
