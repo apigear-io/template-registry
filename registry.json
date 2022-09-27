@@ -3,12 +3,12 @@
     "description": "Template registry for ApiGear",
     "templates": [
         {
-            "name": "Go Template Py",
+            "name": "apigear.io/go-template-py",
             "git": "https://github.com/apigear.io/go-template-py/",
             "description": "A python based template"
         },
         {
-            "name": "Go Template",
+            "name": "apigear.io/go-template-go",
             "git": "https://github.com/apigear.io/go-template-go/",
             "description": "A Go based template with ObjectLink support"
         }
