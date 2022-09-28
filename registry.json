@@ -1,7 +1,7 @@
 {
     "name": "ApiGear Template Registry",
     "description": "Template registry for ApiGear",
-    "templates": [
+    "entries": [
         {
             "name": "apigear-io/go-template-py",
             "git": "https://github.com/apigear-io/go-template-py.git",
