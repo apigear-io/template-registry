@@ -3,11 +3,6 @@
     "description": "Template registry for ApiGear",
     "entries": [
         {
-            "name": "apigear-io/template-py",
-            "git": "https://github.com/apigear-io/template-py.git",
-            "description": "A python based template"
-        },
-        {
             "name": "apigear-io/template-go",
             "git": "https://github.com/apigear-io/template-go.git",
             "description": "A Go based template with ObjectLink support"
@@ -21,16 +16,6 @@
             "name": "apigear-io/template-unreal",
             "git": "https://github.com/apigear-io/template-unreal.git",
             "description": "A Unreal C++ based template with ObjectLink support"
-        },
-        {
-            "name": "apigear-io/template-qtcpp",
-            "git": "https://github.com/apigear-io/template-qtcpp.git",
-            "description": "A Qt C++ based template with ObjectLink support"
-        },
-        {
-            "name": "apigear-io/template-ts",
-            "git": "https://github.com/apigear-io/template-ts.git",
-            "description": "A TypeScript based template with ObjectLink support"
         }
     ]
 }
