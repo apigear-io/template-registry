@@ -16,6 +16,11 @@
             "name": "apigear-io/template-unreal",
             "git": "https://github.com/apigear-io/template-unreal.git",
             "description": "A Unreal C++ based template with ObjectLink support"
+        },
+        {
+            "name": "apigear-io/template-qtcpp",
+            "git": "https://github.com/apigear-io/template-qtcpp.git",
+            "description": "A Qt C++ based template with QML and ObjectLink support"
         }
     ]
 }
