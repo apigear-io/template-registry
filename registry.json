@@ -21,6 +21,11 @@
             "name": "apigear-io/template-qtcpp",
             "git": "https://github.com/apigear-io/template-qtcpp.git",
             "description": "A Qt C++ based template with QML and ObjectLink support"
+        },
+        {
+            "name": "apigear-io/template-python",
+            "git": "https://github.com/apigear-io/template-python.git",
+            "description": "A python template supporting ObjectLink support and http client/server"
         }
     ]
 }
