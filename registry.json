@@ -22,7 +22,7 @@
             "git": "https://github.com/apigear-io/template-qtcpp.git",
             "description": "A Qt6 C++ based template with QML and ObjectLink support"
         },
-		{
+        {
             "name": "apigear-io/template-qt5",
             "git": "https://github.com/apigear-io/template-qt5.git",
             "description": "A Qt5 C++ based template with QML and ObjectLink support - maintenance only branch"
@@ -31,6 +31,11 @@
             "name": "apigear-io/template-python",
             "git": "https://github.com/apigear-io/template-python.git",
             "description": "A python template supporting ObjectLink support and http client/server"
+        },
+        {
+            "name": "apigear-io/template-http",
+            "git": "https://github.com/apigear-io/template-http.git",
+            "description": "Experimental: A http template for Go Echo Backend server and TypeScript/Axios Client"
         }
     ]
 }
