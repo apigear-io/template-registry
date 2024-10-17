@@ -8,9 +8,14 @@
             "description": "A Go based template with ObjectLink support"
         },
         {
+            "name": "apigear-io/template-cpp17",
+            "git": "https://github.com/apigear-io/template-cpp17.git",
+            "description": "A C++17 based template with ObjectLink support"
+        },
+        {
             "name": "apigear-io/template-cpp14",
             "git": "https://github.com/apigear-io/template-cpp14.git",
-            "description": "A C++14 based template with ObjectLink support"
+            "description": "A C++14 based template with ObjectLink support (maintenance mode)"
         },
         {
             "name": "apigear-io/template-unreal",
