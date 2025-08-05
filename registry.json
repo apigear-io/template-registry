@@ -36,6 +36,11 @@
             "name": "apigear-io/template-python",
             "git": "https://github.com/apigear-io/template-python.git",
             "description": "A python template supporting ObjectLink support and http client/server"
+        },
+        {
+            "name": "apigear-io/template-simulation",
+            "git": "https://github.com/apigear-io/template-simulation.git",
+            "description": "Generates simulation js code from API definitions, for use in the apigear simulator"
         }
     ]
 }
