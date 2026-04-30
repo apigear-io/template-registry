@@ -38,6 +38,11 @@
             "description": "A python template supporting ObjectLink support and http client/server"
         },
         {
+            "name": "apigear-io/template-java",
+            "git": "https://github.com/apigear-io/template-java.git",
+            "description": "A Java based template with Android service/client and JNI bridge support"
+        },
+        {
             "name": "apigear-io/template-simulation",
             "git": "https://github.com/apigear-io/template-simulation.git",
             "description": "Generates simulation js code from API definitions, for use in the apigear simulator"
