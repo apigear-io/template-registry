@@ -35,7 +35,12 @@
         {
             "name": "apigear-io/template-python",
             "git": "https://github.com/apigear-io/template-python.git",
-            "description": "A python template supporting ObjectLink support and http client/server"
+            "description": "A python template supporting different IPCs"
+        },
+        {
+            "name": "apigear-io/template-rust",
+            "git": "https://github.com/apigear-io/template-rust.git",
+            "description": "A rust template supporting different IPCs"
         },
         {
             "name": "apigear-io/template-java",
